@@ -1,1 +1,2 @@
-    ###COMP3104 - Developer Operations---------
+##### COMP 3104 Lab Exercise ######
+- Hello world
